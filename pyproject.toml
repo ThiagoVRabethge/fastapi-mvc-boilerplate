@@ -1,0 +1,14 @@
+[project]
+name = "fastapi-mvc-boilerplate"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "passlib[all]>=1.7.4",
+    "python-decouple>=3.8",
+    "python-jose>=3.5.0",
+    "sqlmodel>=0.0.24",
+    "uvicorn>=0.35.0",
+]
