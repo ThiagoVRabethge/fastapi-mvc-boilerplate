@@ -6,9 +6,11 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi>=0.116.1",
+    "invoke>=2.2.0",
     "passlib[all]>=1.7.4",
     "python-decouple>=3.8",
     "python-jose>=3.5.0",
+    "ruff>=0.12.7",
     "sqlmodel>=0.0.24",
     "uvicorn>=0.35.0",
 ]

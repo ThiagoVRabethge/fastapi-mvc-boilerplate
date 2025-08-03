@@ -10,3 +10,4 @@ wheels/
 .venv
 /.env
 /database.db
+/.ruff_cache
